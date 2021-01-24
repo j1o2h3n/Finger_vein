@@ -1,0 +1,23 @@
+﻿  Finger_Vein.cpp
+d:\0_gongcheng_file\opencv\finger_vein - 副本\finger_vein\finger_vein\finger_vein.cpp(890): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+d:\0_gongcheng_file\opencv\finger_vein - 副本\finger_vein\finger_vein\finger_vein.cpp(900): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+d:\0_gongcheng_file\opencv\finger_vein - 副本\finger_vein\finger_vein\finger_vein.cpp(904): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+d:\0_gongcheng_file\opencv\finger_vein - 副本\finger_vein\finger_vein\finger_vein.cpp(1065): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\0_gongcheng_file\opencv\finger_vein - 副本\finger_vein\finger_vein\finger_vein.cpp(1067): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Finger_Vein.vcxproj -> D:\0_gongcheng_file\OpenCV\Finger_Vein - 副本\Finger_Vein\x64\Debug\Finger_Vein.exe
