@@ -38,7 +38,7 @@ After running the program, the images obtained through our various image process
 The algorithm is divided into three steps as a whole. First, the ROI area is extracted by preprocessing, then image enhancement is performed to obtain a binary image, and finally denoising filtering is performed to obtain the final result.
 
 <p align="center">
-  <img width="1122" height="892" src=./Fig/Process.png>
+  <img width="897" height="714" src=./Fig/Process.png>
 </p>
 
 
